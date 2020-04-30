@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AM-CustomErrorResponse" version="SHA-512:189b054875eb8169051637adc253fe6949fce1d13c84e8195f917f4f6d521840ad47630f61dd2557e4fd5483c6b751de49c9457e77edd7d14533eea8b41f76a7"/>
+        <VersionInfo resourceName="AM-PrivateKey" version="SHA-512:d7e37391b228c1c17205bb67dafce643125a38c26510e3cbd1581cc24d48e3a45aa9bb7574aef574b0d868a093e57c75923436f6d0d5fd34d011a043f476da46"/>
+        <VersionInfo resourceName="AM-Response" version="SHA-512:0b12a268c6a11965ce4ff0ec886d7fedbab4639d542316713995a0308f6bcfd34c5422f7394b6e0575d15c710859112810c722bd79b69290c78cc0b1c5ca7f9e"/>
+        <VersionInfo resourceName="AM-Setting-New-Payload" version="SHA-512:b055acc12e4b42aea193d3cd52663d2e2d124f887cc977bf9bb7eae8cdda33905174110ab1d92e06e0bc540495fc7be638ac825fff895879b06125c7c6c49bd3"/>
+        <VersionInfo resourceName="AS-Remove-URIPath" version="SHA-512:ed87fcfe980a96b5ee22d6dc43780535088fcda4db077a7bf548cef714067304b31424bc69179284eec5cbdfba8b86d9a0652f86c26baec79ae15b06ed1088a2"/>
+        <VersionInfo resourceName="Assign-Message-1" version="SHA-512:91a20dfc986e6718cd719a6f65f071ee8206b36bfaedb0cc4f1a91a3914ea51513124a80ab1852ec7f708bb02286e75eaa3b978032243f619d5e682cd7006c3a"/>
+        <VersionInfo resourceName="EV-Extracting-Payload" version="SHA-512:a80cd2cfc4edf497cccbbe437c9665b825572134b99fc3ec89fb9e1f50640b2da47636bccd0b32e913840ada83cba6bab958d0b14e42df987257f68e11bb23ab"/>
+        <VersionInfo resourceName="JS-Logging-User-Setting-ID" version="SHA-512:6c9c95e659972777bfa136a71e44af683159034cf6c27c120c79330f65725d2f24d16aa00bdf243e54196be9c276162fc36289873e3ce57293018d3eada2afff"/>
+        <VersionInfo resourceName="JTP-Too-Long-String" version="SHA-512:d1337a18a305cd152e7f719ad2b3867de79fc008b0a64e670a2ba38e0c4b955125a1714976fecbf79b3d42a211bb831f2d9d2851bddd077ee43e4430472226ac"/>
+        <VersionInfo resourceName="Key-Value-Map-Operations-Credentials" version="SHA-512:d292a79ba31ddb8f583cae8c6b5c443e26d3bb623727176f75a12edf480f997346ab72e35c0650e6c2ba4ecd0bcfc0157058916df5957feb57465c044798bd60"/>
+        <VersionInfo resourceName="OAuth-Verify" version="SHA-512:33408b77457271a82e4f376e7ef711aba53cf768520fef6c0c2ef428d088e686809b52bba059222ad448db0757d71ba3315013f2aaa7964f6c8c3bdfd40f1283"/>
+        <VersionInfo resourceName="REP-Checking-JSON-Payload" version="SHA-512:59673daef47c10f5558e99fb6a2111f7d62266479e0d91d19c6ca8c9ad52fbf1d09565703487acabd88394b1725e579cd57d86beaa4ce53d2b00032f3c294bd4"/>
+        <VersionInfo resourceName="RF-Invalid-UserID" version="SHA-512:d8d2bd040056c89282ef575ae60716dc432df196261503b3d782247483f8f932318455acfa42ab7ca8d0b6ce30345a1bfa55d9a785dd20e13d6bf1ac3d0d25ee"/>
+        <VersionInfo resourceName="RF-Missing-Phone-Number" version="SHA-512:f33703357f1fcbd8e422f016047a8fa96befe3b3596c509345cd6d015d120faf891421727786e27d47eef148b76c4aa873fbf1b0b32c90442ec67e12787cf5bc"/>
+        <VersionInfo resourceName="Response-Cache-CICD" version="SHA-512:c8727f9429d69fc0eee3296cdbaa607b6f77531816d815750d7fd78aebcb66935a170f4420a474693984566593090fc32fe80c7ef384c05cb877a44784f8b0aa"/>
+        <VersionInfo resourceName="Verify-JWT" version="SHA-512:048163b30022a97d3e0bdd4fe21a077e8554f4b9c86eb13aba4c00bab000ba0890a833ec5d4792d0eb6a8ec1e7ab3b5ef455b07c0537f68ac5d90b769e60562f"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:268ee901da66966f2ad309ec97ed2fa08f653cf0777b89c96fc88767e68fe19545ed39fb98bb2c049d9fe5799a2ab3cac7b9ebd171421ac425eef621ee5760bb"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="jsc://Logging-User-Setting-ID.js" version="SHA-512:374859a3702c920f97f5999c793ec6a5e664f7727ebd1c8ef7e5dfdc827c80b87d583c829b4c4bd7db421a25202ad1a7105902e7faf71fd50723be26dfec2e8f"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:5697767967f504f54fb84d75aa0c8b37e133c4695a1a5ba04b399a4f2b29a7210965cd7d0371a8e67bb0b693c06e581cca69a09c4190ad3206c020d9228e5fed"/>
+    </TargetEndpoints>
+</Manifest>
